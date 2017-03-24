@@ -1,0 +1,10 @@
+body { background: #333; color: #fff; font-size: 14px; font-family: arial; }
+a { text-decoration: none; color: #f33; }
+div { margin: 0 0 20px; text-align: center; }
+h1 { margin-bottom: 0; }
+
+#left-menu { width: 300px; position: absolute; top: 0; left: 0; padding: 0 10px; }
+#right-area { width: 80%; min-width: 1100px; float: right; }
+
+
+.ui-accordion .ui-accordion-icons { padding-left: 0; }
